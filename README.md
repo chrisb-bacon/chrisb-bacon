@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishavnandi" alt="rishavnandi" /></a> </p>
 
-- 🌱 I’m currently learning **Natural Language Processing and Kubernetes.**
+- I’m currently learning **Natural Language Processing and Kubernetes.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rishavnandi/](https://github.com/rishavnandi/)
+- All of my projects are available at [https://github.com/rishavnandi/](https://github.com/rishavnandi/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/rishavnandi/**
+- How to reach me **https://www.linkedin.com/in/rishavnandi/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
