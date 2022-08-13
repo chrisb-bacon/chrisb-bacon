@@ -5,9 +5,9 @@
 
 - All of my projects are available at [https://github.com/rishavnandi/](https://github.com/rishavnandi/)
 
-- How to reach me **https://www.linkedin.com/in/rishavnandi/**
+- How to reach me [https://www.linkedin.com/in/rishavnandi/](https://linkedin.com/in/rishavnandi/)
 
-- My HomeLab dashboard **https://heimdall.rishavnandi.com/**
+- My HomeLab dashboard [https://heimdall.rishavnandi.com/](https://www.heimdall.rishavnandi.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
