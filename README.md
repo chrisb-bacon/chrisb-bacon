@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rishav Nandi</h1>
 <h3 align="center">A Machine Learning and System Administration enthusiast.</h3>
 
-- I’m currently learning **Natural Language Processing and Kubernetes.**
+- I’m currently learning **Ansible and Terraform.**
 
 - All of my projects are available at [github.com/rishavnandi](https://github.com/rishavnandi/)
 
