@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishav Nandi</h1>
 <h3 align="center">A Machine Learning and Devops enthusiast.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavnandi&label=Profile%20views&color=ffc800&style=flat" alt="rishavnandi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishavnandi" alt="rishavnandi" /></a> </p>
-
 - 🌱 I’m currently learning **Ansible and Terraform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rishavnandi](https://github.com/rishavnandi)
