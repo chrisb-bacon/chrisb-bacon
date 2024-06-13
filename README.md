@@ -1,13 +1,16 @@
 <h1 align="center" style="text-decoration: none; font-size: 2rem; border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
     Christian Brown
     <small align="center" style="font-size: 1rem;"> <strong>- <code><samp>Sr. Full Stack Software Engineer</samp></strong></code></small>
-    <p style="font-size: 12px; margin-top: 12px; ">Passionate about <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong></p>
+</h1>
+<p style="font-size: 12px; margin-top: 12px;" align="center">Passionate about <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong></p>
+
+<div align="center">
 
 [![Static Badge](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=6e4cff)](https://www.christianjbrown.com)
 [![Static Badge](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=proton&logoColor=6e4cff)](mailto:chris@christianjbrown.com)
 [![Static Badge](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=2767c5)](https://www.linkedin.com/in/christianbrowndev/)
 
-</h1>
+</div>
 
 ### Tech Stack
 ----
