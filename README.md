@@ -6,7 +6,6 @@
 
 <div align="center">
 
-[![Static Badge](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=6e4cff)](https://www.christianjbrown.com)
 [![Static Badge](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=Gmail&logoColor=EA4335)](mailto:chris@apexnerdlabs.com)
 [![Static Badge](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=2767c5)](https://www.linkedin.com/in/binary-brown)
 
