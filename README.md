@@ -7,8 +7,8 @@
 <div align="center">
 
 [![Static Badge](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=6e4cff)](https://www.christianjbrown.com)
-[![Static Badge](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=proton&logoColor=6e4cff)](mailto:chris@christianjbrown.com)
-[![Static Badge](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=2767c5)](https://www.linkedin.com/in/christianbrowndev/)
+[![Static Badge](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=Google Workspaces&logoColor=6e4cff)](mailto:chris@apexnerdlabs.com)
+[![Static Badge](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=2767c5)](https://www.linkedin.com/in/binary-brown)
 
 </div>
 
